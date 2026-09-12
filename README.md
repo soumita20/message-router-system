@@ -1,4 +1,4 @@
-# WhatsApp Message Notification Router
+# Message Notification Router
 
 An AI-powered, multimodal notification-routing agent for WhatsApp messages. For every incoming message, the system decides whether to:
 
