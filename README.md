@@ -122,12 +122,3 @@ Allowed message types: `personal`, `urgent`, `event`, `payment`, `business_updat
    - ask Qwen2.5 only for ambiguous cases;
    - validate the decision and select evidence IDs.
 8. Validate and write `dataset/output.csv`.
-
-## Submission checklist
-
-- [ ] `dataset/output.csv` has one row for each `dataset/messages.csv` row.
-- [ ] Output columns are in the required order.
-- [ ] `requirements.txt` includes every dependency.
-- [ ] `code/main.py` runs from a terminal.
-- [ ] Include this README and source code in `code.zip`.
-- [ ] Include the required chat transcript log with the submission.
